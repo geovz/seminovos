@@ -1,4 +1,4 @@
-# LCrawler Seminovos
+# Crawler Seminovos
 Para iniciar o projeto basta executar os seguintes comandos no diretorio.
 composer update;
 composer install;
@@ -16,10 +16,11 @@ ano1(int):		2003	Ano máximo do carro com quatro dígitos
 ano2(int):		2005	Ano mínimo do carro com quatro dígitos
 pagina(int):		3	Páginação
 
-## Security Vulnerabilities
+## Detalhes do veiculo
 
-If you discover a security vulnerability within Lumen, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+{/automovel/{id}}
+Ex.: /automovel/2474566
 
+id(int):	2474566	Id do ve�culo
 ## License
 
-The Lumen framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
