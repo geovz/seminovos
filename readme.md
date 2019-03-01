@@ -22,5 +22,7 @@ pagina(int):		3	PÃ¡ginaÃ§Ã£o
 Ex.: /automovel/2474566
 
 id(int):	2474566	Id do veículo
-## License
+## Questoes
+As outras questoes do teste Estão disponíveis em:
+public/questions/{numero da questão}question.php
 
